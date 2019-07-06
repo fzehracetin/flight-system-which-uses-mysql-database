@@ -1,4 +1,4 @@
-# Flight System Which Uses MYSQL Database
+# Flight System which Uses MYSQL Database
 
 In this project we made a flight system. Modules that we have listed below:
 
