@@ -31,6 +31,6 @@ You must import database files to your MYSQL Workbench and in [Connector.java](h
 
 ### Resources:
 
-1. To learn MYSQL, you can watch this: https://youtu.be/HXV3zeQKqGY
+1. For learning MYSQL, you can watch this: https://youtu.be/HXV3zeQKqGY
 
-2. To do connection between MYSQL and Java watch this: https://youtu.be/2i4t-SL1VsU
+2. For doing connection between MYSQL and Java watch this: https://youtu.be/2i4t-SL1VsU
