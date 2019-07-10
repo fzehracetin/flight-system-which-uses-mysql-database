@@ -28,3 +28,9 @@ In database we have 13 tables. Table names listed below:
 13. yolcu_tipi
 
 You must import database files to your MYSQL Workbench and in [Connector.java](https://github.com/fzehracetin/flight-system-which-uses-mysql-database/blob/master/Connector.java) you must change the username and password to your own MYSQL account. The code files are little bit nasty so it can be more connectors in java classes you have to change them all to your own MYSQL username and password. Don't forget to add the [Java Connector](https://github.com/fzehracetin/flight-system-which-uses-mysql-database/blob/master/mysql-connector-java-8.0.15.jar) to your library. This is the key of the connection between MYSQL and Java. 
+
+### Resources:
+
+1. To learn MYSQL, you can watch this: https://youtu.be/HXV3zeQKqGY
+
+2. To do connection between MYSQL and Java watch this: https://youtu.be/2i4t-SL1VsU
